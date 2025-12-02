@@ -1,4 +1,6 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
   --background: #ffffff;
@@ -10,6 +12,14 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --color-accent: #4edcd8;
+  --shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+  --shadow-sm: 0 0 30px rgba(255, 255, 255, 0.08);
+  --shadow-md: 0 0 50px rgba(255, 255, 255, 0.12);
+  --shadow-lg: 0 0 60px rgba(255, 255, 255, 0.12);
+  --shadow-xl: 0 0 75px rgba(255, 255, 255, 0.14);
+  --shadow-2xl: 0 0 90px rgba(255, 255, 255, 0.16);
+  --shadow-white-glow: 0 0 50px rgba(255, 255, 255, 0.1);
 }
 
 @media (prefers-color-scheme: dark) {

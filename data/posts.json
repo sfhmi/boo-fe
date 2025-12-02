@@ -1,0 +1,204 @@
+{
+  "posts": [
+    {
+      "id": "post_002",
+      "user": {
+        "name": "Liam",
+        "avatar": "https://i.pravatar.cc/150?img=12",
+        "mbti": "ENTP",
+        "zodiac": "Gemini",
+        "age_range": "24",
+        "range": [5, 15]
+      },
+      "created_at": "12h",
+      "award": { "count": 3 },
+      "content": {
+        "text": "Creativity flows best when you stop forcing it and start feeling it. ✨",
+        "highlights": ["creativity", "flow", "feeling"]
+      },
+      "stats": { "likes": 841, "comments": 1, "reposts": 18, "bookmarks": 27 },
+      "replies": [
+        {
+          "id": "post_006",
+          "user": {
+            "name": "Ethan",
+            "avatar": "https://i.pravatar.cc/150?img=52",
+            "mbti": "ISTP",
+            "zodiac": "Capricorn",
+            "age_range": "28",
+            "range": [2, 8]
+          },
+          "created_at": "3d",
+          "award": { "count": 1 },
+          "content": {
+            "text": "Not every battle is worth fighting—choose peace over pride. ⚖️",
+            "highlights": ["battle", "peace", "pride"]
+          },
+          "stats": { "likes": 432, "comments": 0, "reposts": 12, "bookmarks": 15 }
+        }
+      ]
+    },
+    {
+      "id": "post_003",
+      "user": {
+        "name": "Ava",
+        "avatar": "https://i.pravatar.cc/150?img=23",
+        "mbti": "ISFP",
+        "zodiac": "Pisces",
+        "age_range": "22",
+        "range": [1, 7]
+      },
+      "created_at": "2h",
+      "award": { "count": 0 },
+      "content": {
+        "text": "Trust your pace. You’re not late, you’re growing. 🌱",
+        "highlights": ["trust", "pace", "growing"]
+      },
+      "stats": { "likes": 153, "comments": 0, "reposts": 3, "bookmarks": 9 }
+    },
+    {
+      "id": "post_004",
+      "user": {
+        "name": "Noah",
+        "avatar": "https://i.pravatar.cc/150?img=33",
+        "mbti": "INTJ",
+        "zodiac": "Virgo",
+        "age_range": "27",
+        "range": [3, 12]
+      },
+      "created_at": "1d",
+      "award": { "count": 2 },
+      "content": {
+        "text": "Silence is often the loudest answer. 🌙",
+        "highlights": ["silence", "answer", "loudest"]
+      },
+      "stats": { "likes": 501, "comments": 0, "reposts": 9, "bookmarks": 14 }
+    },
+    {
+      "id": "post_005",
+      "user": {
+        "name": "Mia",
+        "avatar": "https://i.pravatar.cc/150?img=45",
+        "mbti": "ENFJ",
+        "zodiac": "Leo",
+        "age_range": "23",
+        "range": [4, 10]
+      },
+      "created_at": "8h",
+      "award": { "count": 4 },
+      "content": {
+        "text": "Sometimes you just need a fresh start and a deep breath. 🌤️",
+        "highlights": ["fresh", "start", "breath"]
+      },
+      "stats": { "likes": 674, "comments": 0, "reposts": 16, "bookmarks": 20 }
+    },
+    {
+      "id": "post_006",
+      "user": {
+        "name": "Ethan",
+        "avatar": "https://i.pravatar.cc/150?img=52",
+        "mbti": "ISTP",
+        "zodiac": "Capricorn",
+        "age_range": "28",
+        "range": [2, 8]
+      },
+      "created_at": "3d",
+      "award": { "count": 1 },
+      "content": {
+        "text": "Not every battle is worth fighting—choose peace over pride. ⚖️",
+        "highlights": ["battle", "peace", "pride"]
+      },
+      "stats": { "likes": 432, "comments": 0, "reposts": 12, "bookmarks": 15 }
+    },
+    {
+      "id": "post_007",
+      "user": {
+        "name": "Sophia",
+        "avatar": "https://i.pravatar.cc/150?img=60",
+        "mbti": "INFP",
+        "zodiac": "Cancer",
+        "age_range": "20",
+        "range": [1, 6]
+      },
+      "created_at": "7h",
+      "award": { "count": 2 },
+      "content": {
+        "text": "Being soft in a hard world is strength, not weakness. 🌸",
+        "highlights": ["soft", "strength", "world"]
+      },
+      "stats": { "likes": 721, "comments": 0, "reposts": 22, "bookmarks": 30 }
+    },
+    {
+      "id": "post_008",
+      "user": {
+        "name": "James",
+        "avatar": "https://i.pravatar.cc/150?img=71",
+        "mbti": "ESTP",
+        "zodiac": "Sagittarius",
+        "age_range": "26",
+        "range": [6, 17]
+      },
+      "created_at": "5d",
+      "award": { "count": 0 },
+      "content": {
+        "text": "Life rewards the bold. Make the move. 🚀",
+        "highlights": ["life", "bold", "move"]
+      },
+      "stats": { "likes": 298, "comments": 0, "reposts": 7, "bookmarks": 8 }
+    },
+    {
+      "id": "post_009",
+      "user": {
+        "name": "Emma",
+        "avatar": "https://i.pravatar.cc/150?img=81",
+        "mbti": "ESFJ",
+        "zodiac": "Libra",
+        "age_range": "25",
+        "range": [3, 11]
+      },
+      "created_at": "16h",
+      "award": { "count": 5 },
+      "content": {
+        "text": "Kindness ages well. It never goes out of style. 💛",
+        "highlights": ["kindness", "style", "never"]
+      },
+      "stats": { "likes": 912, "comments": 0, "reposts": 31, "award": 44, "share": 20 }
+    },
+    {
+      "id": "post_010",
+      "user": {
+        "name": "Oliver",
+        "avatar": "https://i.pravatar.cc/150?img=90",
+        "mbti": "ENTJ",
+        "zodiac": "Aries",
+        "age_range": "29",
+        "range": [7, 18]
+      },
+      "created_at": "10d",
+      "award": { "count": 1 },
+      "content": {
+        "text": "Discipline is choosing what you want most over what you want now. 🔥",
+        "highlights": ["discipline", "want", "now"]
+      },
+      "stats": { "likes": 654, "comments": 0, "reposts": 19, "bookmarks": 25 }
+    },
+    {
+      "id": "post_011",
+      "user": {
+        "name": "Isabella",
+        "avatar": "https://i.pravatar.cc/150?img=95",
+        "mbti": "ENFP",
+        "zodiac": "Taurus",
+        "age_range": "22",
+        "range": [2, 9]
+      },
+      "created_at": "4h",
+      "award": { "count": 0 },
+      "content": {
+        "text": "Your energy introduces you before you even speak. 🌟",
+        "highlights": ["energy", "introduces", "speak"]
+      },
+      "stats": { "likes": 487, "comments": 0, "reposts": 10, "bookmarks": 14 }
+    }
+  ]
+}
