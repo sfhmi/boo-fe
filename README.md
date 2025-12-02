@@ -18,3 +18,5 @@ cause somehow the new nextjs 16 does not include the tailwind file configuration
 
 this project does not include any frontend component framework like headlessui, heroui, shadcnui and ect
 i don't use that for the test, might be a good idea to use that in the future test
+
+whats also missing inside this project beside the feature and section is the metadata for the SEO, i didn't include that in the test
