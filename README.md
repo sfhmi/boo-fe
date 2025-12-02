@@ -10,7 +10,11 @@ pnpm dev
 bun dev
 ```
 
-Time Spend: 4 hours
+Time Spend: almost 4 hours
+Time Range: 9:00pm - 00:56 (the next day after i recieved the email test)
+
+reasoning:
+for the explanation why i only work on the post section, i decided to only work on that section cause the test page is more into users posts and interaction with other users since boo is a social media platform/dating platform, i think it is more important to more focus on that for the users
 
 I skipped many things and more focus on the post section, i don't usually use nextjs with page routing
 mostly i use app route for my project, i spend much time more in trying to figure out page routing behavior and the styling
